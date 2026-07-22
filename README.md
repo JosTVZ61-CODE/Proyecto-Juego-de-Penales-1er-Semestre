@@ -199,4 +199,4 @@ Es importante aclarar que la licencia MIT aplica al código fuente desarrollado 
 
 #  Estado del Proyecto
 
-FINALIZADO EN ESPERA DE PRESENTAR 😎 | FASE 6
+FINALIZADO
